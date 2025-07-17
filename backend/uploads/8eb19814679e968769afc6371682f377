@@ -1,0 +1,23 @@
+{
+  "drone_id": "DR001",
+  "date": "2025-07-17",
+  "location": "New Delhi",
+  "violations": [
+    {
+      "id": "V001",
+      "type": "NoFlyZone",
+      "timestamp": "2025-07-17T10:45:00Z",
+      "latitude": 28.6139,
+      "longitude": 77.2090,
+      "image_url": "https://example.com/violation1.jpg"
+    },
+    {
+      "id": "V002",
+      "type": "AltitudeBreach",
+      "timestamp": "2025-07-17T11:10:00Z",
+      "latitude": 28.6140,
+      "longitude": 77.2091,
+      "image_url": "https://example.com/violation2.jpg"
+    }
+  ]
+}
