@@ -93,6 +93,7 @@ docker exec -it dataking_db psql -U postgres -c "DELETE FROM violations;"
 ```
 
 ## 📅 Submission
+- Googledrive: [https://drive.google.com/file/d/12DHFFTimQ4_0mKoJBHauyrjP-dYhEaF6/view?usp=drive_link]
 
 - GitHub Repo: [https://github.com/spillproof98/dataking-drone-analytics1](https://github.com/spillproof98/dataking-drone-analytics1)
 
